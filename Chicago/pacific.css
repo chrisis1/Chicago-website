@@ -1,0 +1,113 @@
+body {
+background:linear-gradient(#90C7E3,#FFFFFF);
+font-family: Helvetica;
+}
+.wrapper {
+	width: 80%;
+	background:#FFFFFF;
+	min-width: 960px;
+	max-width: 2048px;
+	margin: auto;
+}
+header {
+background: #FF0000;
+color: #FF0000;
+background-image: url("chicagoflag.jpg");
+height: 120px;
+padding-top: 5px;
+text-align:center;
+}
+nav {
+	text-align: center;
+	font-family: bold;
+	background-color: #FFFFFF;
+	padding:10px;
+}
+h2 {
+	text-shadow: 1px #CCCCCC;
+	color: #3399CC;
+	font-family: times new roman;
+}
+dt {
+	color: #000033;
+}
+h1 {
+	margin-top:0;
+	margin-bottom: 0;
+	font-family: times new roman;
+}
+.resort {
+	color: #5C7FA3;
+	font-family: bold;
+}
+h3 {
+	font-family: times new roman;
+	color: #000033;
+}
+ul {
+	image: "maker.gif";
+}
+nav a {
+	text-decoration: none;
+}
+footer {
+	text-align: center;
+	padding: 20px;
+}
+
+main {
+		padding-top: 1px;
+		padding-right: 20px;
+		padding-bottom: 20px;
+		padding-left: 20px;
+		display: block;
+	}
+	#homehero {
+		background-image: url("chicagoskyline.jpg");
+		height: 500px;
+		background-size: 100% 100% ;
+		background-repeat: no repeat;
+	}
+	#yurthero {
+		height:250px;
+		background-image: url("chicagoland.jpg");
+		background-size: 100% 100%;
+		background-repeat: no repeat;
+	}
+	#trailhero {
+		height:500px;
+		background-image: url("chicagooutdoor.jpg");
+		background-size: 100% 100%;
+		background-repeat: no repeat;
+	}
+	#chicagoc {
+	height: 400px;
+	background-image:url("chicagoc.jpg");
+	background-size: 100% 100%
+	background-repeat: no repeat;
+	}
+	
+    #chicagofood{
+		height: 400px;
+		background-image: url("chicagofood.jpg");
+		background-size: 100% 100%
+	}
+	#chicagotour {
+		height:400px;
+		background-image: url("chicagotour.jpg");
+		background-size: 100% 100%;
+	}
+	#chicagoflag2 {
+		height: 600px;
+		width: 1025px;
+		background-image: url("chicagoflag2.jpg");
+		background-size: 100% 100%;
+	}
+	a:visited{
+		color:blue;
+	}
+	a:hoover {
+		background-color:red;
+	}
+
+	
